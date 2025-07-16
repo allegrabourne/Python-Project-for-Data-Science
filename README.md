@@ -48,15 +48,6 @@ Extracting essential data and displaying it visually is a key part of data scien
 
 ---
 
-## 🖼️ Sample Visualizations
-
-*(Optional: You can embed your saved PNGs here if desired)*
-
-![Tesla Stock Price](images/tesla_stock_price.png)
-![GameStop Stock Price](images/gamestop_stock_price.png)
-
----
-
 ## 🚀 How to Run the Notebook
 
 1. Clone the repository.
